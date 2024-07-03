@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/sainiks/portfolio/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sainiks/portfolio/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sainiks/portfolio/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sainiks/portfolio/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sainiks/portfolio/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sainiks/portfolio/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sainiks/portfolio/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +79,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sainiks/portfolio/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sainiks/portfolio/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
