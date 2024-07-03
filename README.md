@@ -42,8 +42,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sainiks/portfolio/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
