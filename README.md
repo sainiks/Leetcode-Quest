@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sainiks/portfolio/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sainiks/portfolio/tree/master/0084-largest-rectangle-in-histogram) |
 ## Stack
 |  |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -63,4 +65,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sainiks/portfolio/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
