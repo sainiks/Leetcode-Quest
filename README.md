@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sainiks/portfolio/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/sainiks/portfolio/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/sainiks/portfolio/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sainiks/portfolio/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/sainiks/portfolio/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
