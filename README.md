@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sainiks/portfolio/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/sainiks/portfolio/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sainiks/portfolio/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sainiks/portfolio/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/sainiks/portfolio/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sainiks/portfolio/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sainiks/portfolio/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/sainiks/portfolio/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sainiks/portfolio/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
