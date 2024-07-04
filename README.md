@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0104-maximum-depth-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/sainiks/portfolio/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sainiks/portfolio/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sainiks/portfolio/tree/master/0437-path-sum-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0104-maximum-depth-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/sainiks/portfolio/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sainiks/portfolio/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sainiks/portfolio/tree/master/0437-path-sum-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0104-maximum-depth-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/sainiks/portfolio/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sainiks/portfolio/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sainiks/portfolio/tree/master/0437-path-sum-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
