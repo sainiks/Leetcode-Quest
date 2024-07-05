@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
