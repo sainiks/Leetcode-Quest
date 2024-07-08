@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0098-validate-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sainiks/portfolio/tree/master/0450-delete-node-in-a-bst) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
