@@ -26,7 +26,6 @@ public:
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(root==NULL){
-            delete root;
             return NULL;
         }
         if(root->val==key){
@@ -36,14 +35,16 @@ public:
             if(root->left==NULL or root->right==NULL){
                 TreeNode* temp;
                 if(root->left){
-                    temp= root->left;
-                    delete root;
-                    return temp;
+                    int x=findgreatest(root->left);
+                    root->val=x;
+                    root->left=deleteNode(root->left,x);
+                    return root;
                 }
                 if(root->right){
-                    temp=root->right;
-                    delete root;
-                    return temp;
+                    int x=findsmallest(root->right);
+                    root->val=x;
+                    root->right=deleteNode(root->right,x);
+                    return root;
                 }
             }
             int x=findsmallest(root->right);
