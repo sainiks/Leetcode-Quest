@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sainiks/portfolio/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sainiks/portfolio/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/sainiks/portfolio/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sainiks/portfolio/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sainiks/portfolio/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/sainiks/portfolio/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
@@ -152,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0104-maximum-depth-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sainiks/portfolio/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/sainiks/portfolio/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
