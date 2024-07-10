@@ -179,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sainiks/Leetcode-Quest/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
