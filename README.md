@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0084-largest-rectangle-in-histogram](https://github.com/sainiks/portfolio/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0735-asteroid-collision](https://github.com/sainiks/portfolio/tree/master/0735-asteroid-collision) |
+| [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | ------- |
 | [0155-min-stack](https://github.com/sainiks/portfolio/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sainiks/portfolio/tree/master/0225-implement-stack-using-queues) |
+| [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/sainiks/portfolio/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0141-linked-list-cycle](https://github.com/sainiks/portfolio/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sainiks/portfolio/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sainiks/portfolio/tree/master/0206-reverse-linked-list) |
+| [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/sainiks/portfolio/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -95,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sainiks/portfolio/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sainiks/portfolio/tree/master/0142-linked-list-cycle-ii) |
+| [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 ## Simulation
 |  |
 | ------- |
@@ -183,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sainiks/Leetcode-Quest/tree/master/0009-palindrome-number) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
