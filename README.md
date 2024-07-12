@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sainiks/portfolio/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0219-contains-duplicate-ii](https://github.com/sainiks/Leetcode-Quest/tree/master/0219-contains-duplicate-ii) |
 | [0735-asteroid-collision](https://github.com/sainiks/portfolio/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 ## Stack
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sainiks/portfolio/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sainiks/portfolio/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/sainiks/Leetcode-Quest/tree/master/0219-contains-duplicate-ii) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 ## Simulation
 |  |
@@ -191,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sainiks/Leetcode-Quest/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
