@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainiks/Leetcode-Quest/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0735-asteroid-collision](https://github.com/sainiks/portfolio/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## String
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -205,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sainiks/Leetcode-Quest/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
