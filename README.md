@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0208-implement-trie-prefix-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/sainiks/Leetcode-Quest/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainiks/Leetcode-Quest/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0652-find-duplicate-subtrees](https://github.com/sainiks/Leetcode-Quest/tree/master/0652-find-duplicate-subtrees) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0450-delete-node-in-a-bst](https://github.com/sainiks/portfolio/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/sainiks/Leetcode-Quest/tree/master/0652-find-duplicate-subtrees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0437-path-sum-iii](https://github.com/sainiks/portfolio/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/sainiks/Leetcode-Quest/tree/master/0652-find-duplicate-subtrees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0450-delete-node-in-a-bst](https://github.com/sainiks/portfolio/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/sainiks/Leetcode-Quest/tree/master/0652-find-duplicate-subtrees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
