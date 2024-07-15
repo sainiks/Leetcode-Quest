@@ -16,8 +16,8 @@ public:
         mp[col].push_back({row,root->val});
         l=min(l,col);
         r=max(r,col);
-        dfs(root->right,mp,col+1,row+1,l,r);
         dfs(root->left,mp,col-1,row+1,l,r);
+        dfs(root->right,mp,col+1,row+1,l,r);
     }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         unordered_map<int,vector<pair<int,int>>>mp;
