@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0219-contains-duplicate-ii](https://github.com/sainiks/Leetcode-Quest/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainiks/Leetcode-Quest/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -187,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0104-maximum-depth-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sainiks/portfolio/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -225,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/0208-implement-trie-prefix-tree) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
