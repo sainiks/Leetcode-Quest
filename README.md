@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sainiks/portfolio/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/sainiks/portfolio/tree/master/0225-implement-stack-using-queues) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/sainiks/portfolio/tree/master/0937-online-stock-span) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainiks/Leetcode-Quest/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/0208-implement-trie-prefix-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 ## Greedy
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0128-longest-consecutive-sequence](https://github.com/sainiks/Leetcode-Quest/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sainiks/portfolio/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sainiks/portfolio/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/sainiks/Leetcode-Quest/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainiks/Leetcode-Quest/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
@@ -215,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
