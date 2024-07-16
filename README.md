@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sainiks/portfolio/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sainiks/portfolio/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/sainiks/Leetcode-Quest/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sainiks/Leetcode-Quest/tree/master/0322-coin-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
 ## Hash Table
 |  |
