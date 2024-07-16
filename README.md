@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0084-largest-rectangle-in-histogram](https://github.com/sainiks/portfolio/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/sainiks/Leetcode-Quest/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/sainiks/Leetcode-Quest/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/sainiks/Leetcode-Quest/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/sainiks/Leetcode-Quest/tree/master/0322-coin-change) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sainiks/Leetcode-Quest/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
+| [0198-house-robber](https://github.com/sainiks/Leetcode-Quest/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sainiks/Leetcode-Quest/tree/master/0322-coin-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
