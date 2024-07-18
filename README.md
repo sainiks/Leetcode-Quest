@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0735-asteroid-collision](https://github.com/sainiks/portfolio/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1121-partition-array-for-maximum-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/1121-partition-array-for-maximum-sum) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0337-house-robber-iii](https://github.com/sainiks/Leetcode-Quest/tree/master/0337-house-robber-iii) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
+| [1121-partition-array-for-maximum-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/sainiks/Leetcode-Quest/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## String
