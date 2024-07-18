@@ -1,22 +1,26 @@
 class Solution {
 public:
     bool isMatch(string s, string p) {
-    int sIndex = 0, pIndex = 0, match = 0, starIndex = -1;
-        while (sIndex < s.size()) {
-            if (pIndex < p.size() && (p[pIndex] == '?' || p[pIndex] == s[sIndex])) {
-                sIndex++;
-                pIndex++;
-            } else if (pIndex < p.size() && p[pIndex] == '*') {
-                starIndex = pIndex;
-                match = sIndex;
-                pIndex++;
-            } else if (starIndex!= -1) {
-                pIndex = starIndex + 1;
-                match++;
-                sIndex = match;
-            } else return false;
+        int m=s.size(),n=p.size();
+        vector<vector<bool>>dp(m+1,vector<bool>(n+1,false));
+        dp[0][0]=true;
+        for(int i=0;i<p.size();i++){
+            if(p[i]=='*'){
+                dp[0][i+1]=true;
+            }else{
+                break;
+            }
         }
-        while (pIndex < p.size() && p[pIndex] == '*') pIndex++;
-        return pIndex == p.size();    
+        for(int i=1;i<=m;i++){
+            for(int j=1;j<=n;j++){
+                if(s[i-1]==p[j-1] or p[j-1]=='?'){
+                    dp[i][j]=dp[i-1][j-1];
+                }else if (p[j-1]=='*'){
+                    if(dp[i][j-1] or dp[i-1][j])
+                        dp[i][j]=true;
+                }
+            }
+        }
+        return dp[m][n];
     }
 };
