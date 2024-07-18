@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0128-longest-consecutive-sequence](https://github.com/sainiks/Leetcode-Quest/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/sainiks/Leetcode-Quest/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/sainiks/Leetcode-Quest/tree/master/0219-contains-duplicate-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/sainiks/Leetcode-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sainiks/Leetcode-Quest/tree/master/0322-coin-change) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sainiks/Leetcode-Quest/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainiks/Leetcode-Quest/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0064-minimum-path-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sainiks/Leetcode-Quest/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/sainiks/Leetcode-Quest/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/sainiks/Leetcode-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sainiks/Leetcode-Quest/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/sainiks/Leetcode-Quest/tree/master/0337-house-robber-iii) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0098-validate-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sainiks/portfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/sainiks/Leetcode-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/sainiks/portfolio/tree/master/0450-delete-node-in-a-bst) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sainiks/portfolio/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
