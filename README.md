@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/sainiks/Leetcode-Quest/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/sainiks/Leetcode-Quest/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sainiks/Leetcode-Quest/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/sainiks/Leetcode-Quest/tree/master/0337-house-robber-iii) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainiks/Leetcode-Quest/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/sainiks/Leetcode-Quest/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sainiks/Leetcode-Quest/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/0208-implement-trie-prefix-tree) |
