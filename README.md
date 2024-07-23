@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0410-split-array-largest-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sainiks/Leetcode-Quest/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sainiks/Leetcode-Quest/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0695-max-area-of-island](https://github.com/sainiks/Leetcode-Quest/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/sainiks/portfolio/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/sainiks/Leetcode-Quest/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0543-diameter-of-binary-tree](https://github.com/sainiks/portfolio/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/sainiks/Leetcode-Quest/tree/master/0652-find-duplicate-subtrees) |
+| [0695-max-area-of-island](https://github.com/sainiks/Leetcode-Quest/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/sainiks/Leetcode-Quest/tree/master/0801-is-graph-bipartite) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0199-binary-tree-right-side-view](https://github.com/sainiks/portfolio/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sainiks/Leetcode-Quest/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/sainiks/Leetcode-Quest/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/sainiks/Leetcode-Quest/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -263,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sainiks/Leetcode-Quest/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/sainiks/Leetcode-Quest/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/sainiks/Leetcode-Quest/tree/master/0801-is-graph-bipartite) |
 ## Heap (Priority Queue)
 |  |
