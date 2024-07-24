@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0606-construct-string-from-binary-tree](https://github.com/sainiks/portfolio/tree/master/0606-construct-string-from-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/sainiks/Leetcode-Quest/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/sainiks/Leetcode-Quest/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/sainiks/Leetcode-Quest/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sainiks/Leetcode-Quest/tree/master/0801-is-graph-bipartite) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sainiks/portfolio/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/sainiks/portfolio/tree/master/1008-binary-tree-cameras) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0226-invert-binary-tree](https://github.com/sainiks/portfolio/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sainiks/Leetcode-Quest/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/sainiks/Leetcode-Quest/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/sainiks/Leetcode-Quest/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sainiks/Leetcode-Quest/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/sainiks/Leetcode-Quest/tree/master/0744-network-delay-time) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Trie
 |  |
@@ -294,5 +297,10 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sainiks/Leetcode-Quest/tree/master/0133-clone-graph) |
+| [0744-network-delay-time](https://github.com/sainiks/Leetcode-Quest/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sainiks/Leetcode-Quest/tree/master/0801-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sainiks/Leetcode-Quest/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
