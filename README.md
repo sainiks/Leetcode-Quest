@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0735-asteroid-collision](https://github.com/sainiks/portfolio/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/sainiks/Leetcode-Quest/tree/master/0817-design-hashmap) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sainiks/Leetcode-Quest/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1036-rotting-oranges](https://github.com/sainiks/Leetcode-Quest/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/1121-partition-array-for-maximum-sum) |
 ## Stack
 |  |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0064-minimum-path-sum](https://github.com/sainiks/Leetcode-Quest/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sainiks/portfolio/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/sainiks/Leetcode-Quest/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/sainiks/Leetcode-Quest/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 | [0744-network-delay-time](https://github.com/sainiks/Leetcode-Quest/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sainiks/Leetcode-Quest/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sainiks/Leetcode-Quest/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/sainiks/Leetcode-Quest/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
