@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sainiks/Leetcode-Quest/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sainiks/portfolio/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sainiks/portfolio/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/sainiks/portfolio/tree/master/0155-min-stack) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created By Kunal
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainiks/Leetcode-Quest/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sainiks/Leetcode-Quest/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sainiks/portfolio/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sainiks/Leetcode-Quest/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sainiks/Leetcode-Quest/tree/master/0076-minimum-window-substring) |
