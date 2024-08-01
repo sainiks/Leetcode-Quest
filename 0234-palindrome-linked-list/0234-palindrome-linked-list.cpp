@@ -44,6 +44,8 @@ public:
             head=head->next;
             head2=head2->next;
         }
+        head2 = reverse(head2);
+        mid->next = head2;
         return true;
     }
 };
